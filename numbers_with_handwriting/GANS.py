@@ -186,18 +186,3 @@ with imageio.get_writer(anim_file, mode='I') as writer:
   
 import tensorflow_docs.vis.embed as embed
 embed.embed_file(anim_file)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
